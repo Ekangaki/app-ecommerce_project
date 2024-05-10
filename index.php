@@ -104,7 +104,7 @@
             <div class="row it_works">
               <?php
 
-                        $link = mysqli_connect('hostname', 'ekangaki', 'ekangakipassword', 'ekangakidb');
+                        $link = mysqli_connect('hostname', 'ekangakiuser', 'ekangakipassword', 'ekangakidb');
 
                         if ($link) {
                         $res = mysqli_query($link, "select * from products;");
