@@ -65,11 +65,11 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <div class="col-md-9 p0">
                             <ul class="nav navbar-nav main_nav">
-                              <li><a href="#">Laptops</a></li>
-                              <li><a href="#">Drones</a></li>
-                                <li><a href="#">Gadgets</a></li>
-                                <li><a href="#">Phones</a></li>
-                                <li><a href="#">VR</a></li>
+                              <li><a href="#">Nguti Laptops</a></li>
+                              <li><a href="#">Nguti Drones</a></li>
+                                <li><a href="#">Nguti Gadgets</a></li>
+                                <li><a href="#">Nguti Phones</a></li>
+                                <li><a href="#">Nguti VR</a></li>
                                 <li><a href="#">Contact us</a></li>
                             </ul>
                         </div>
@@ -99,7 +99,7 @@
 
         <section class="best_business_area row">
             <div class="check_tittle wow fadeInUp" data-wow-delay="0.7s" id="product-list">
-                <h2>Product List</h2>
+                <h2>Nguti Product List</h2>
             </div>
             <div class="row it_works">
               <?php
